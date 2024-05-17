@@ -1,7 +1,5 @@
 
-// import "slick-carousel/slick/slick.css";
-// import "slick-carousel/slick/slick-theme.css";
-// import React, { useState } from "react";
+
 import Image1 from "../image/ar.png"
 import Image2 from "../image/vr.png"
 
